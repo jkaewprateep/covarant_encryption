@@ -22,6 +22,17 @@ item_name_3 = [ mapping[x] for ( x, y ) in dataset.items() if y == volatility_ma
 image = tf.constant([ item_name_1, item_name_2, item_name_3 ], shape=(1, 3))
 ```
 
+## Files and Directory ##
+
+| File name | Description |
+--- | --- |
+| sample.py | sample codes |
+| Figure_2.png | Signals and reverse mapping techniques ( local table ) |
+| Figure_3.png | Signals and reverse mapping techniques ( local table ) |
+| Figure_4.png | Signals and reverse mapping techniques ( local table ) |
+| Figure_5.png | Signals and reverse mapping techniques ( local table ) |
+| README.md | readme file |
+
 ## Results ##
 
 #### Signals and reverse mapping techniques ( local table ) ####
