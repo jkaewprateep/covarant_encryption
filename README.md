@@ -1,5 +1,10 @@
 # covarant_encryption
-For study covarants encryptions 
+
+For studying covariants encryptions, the mathematicians believe that with summations and covariants, it is impossible to reverse back the original message but it still can by the local table but it will be about 1 - 4 Mbytes for larger mapping values and infinity for precise values.
+
+## Create final value from volatilities and correlations with summations and multiplications ##
+
+In the real world is nearly impossible to know these ratios as you know it is salts or random value when creating an encoder ( see examples in JAVA or DotNet ), transmitting signals is very fast and you never had the final decrypted results than the target do it from assumptions that are why many of computer companies telling you that is not dangerous because it is based on target assumptions and final results never been exposed. 🧸💬 Yes it is but the target possibilities must be large enough or adding random numbers and sequence numbers.
 
 ```
 Cell_A = 0.33
@@ -11,6 +16,10 @@ correlations = tf.constant([[ 33405, 33405, 33405 ], [ 33405, 40050, 33405 ], [ 
 
 volatility_matrix = tf.einsum('ij,jk->ik', volatilities, correlations)
 ```
+
+## Implementation codes ##
+
+Simple as a Lookup table, game cheaters should stop or the dataset will be very large that is why specific hard drive volumes are used to be intellectual property once that is because they can contain the data dictionary. 😸💬 Not the pocket monsters games 🐑💬 He bought from the bookstores.
 
 ```
 volatility_matrix = tf.einsum('ij,jk->ik', volatilities, correlations)
